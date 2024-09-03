@@ -93,5 +93,3 @@ This script is designed to automatically synchronize data between two MongoDB da
 This script provides an efficient and reliable method for synchronizing data between two MongoDB databases across different versions. It handles both the initial data transfer and ongoing synchronization, ensuring that the secondary database remains up-to-date with minimal latency. The added logging functionality offers transparency and ease of monitoring, making the script suitable for production environments where data consistency is critical.
 
 [youtube link](https://youtu.be/nj63gjB2S6U)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nj63gjB2S6U?si=V0rZOwqKp-ie2yFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
